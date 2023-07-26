@@ -1,8 +1,9 @@
 {
-  "homepage": "https://babble-chat.onrender.com",
+  "homepage": "https://babble-taupe.vercel.app/",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://babble-server.onrender.com",
   "dependencies": {
     "@dhaiwat10/react-link-preview": "^1.15.0",
     "@emoji-mart/data": "^1.0.6",
