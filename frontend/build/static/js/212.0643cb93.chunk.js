@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[212],{81212:function(e,t,n){n.r(t);var r=n(72791);t.default=function(e){var t=e.url;return(0,e.renderWrap)(r.createElement("embed",{src:t,type:"application/pdf",style:{width:"100%",minHeight:600},className:"react-embed--pdf"}))}}}]);
+//# sourceMappingURL=212.0643cb93.chunk.js.map
