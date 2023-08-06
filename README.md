@@ -34,6 +34,11 @@ Once the Chat App is set up, you can just open your web browser and navigate to 
 - Use emojis to express emotions in your conversations.
 - Share files and documents with other users.
 - Access previous chat history even after closing the application.
+  
+## TODO
+- [ ] Implement Functionality to Upload Files ([#1](https://github.com/Hadeso-0/Babble/issues/1))
+- [ ] Add Functionality to make calls/ Video Calls ([#5](https://github.com/Hadeso-0/Babble/issues/5))
+- [ ] Make the Chats end-to-end Encrypted ([#6](https://github.com/Hadeso-0/Babble/issues/6))
 
 ## Setup on your Device
 ```
